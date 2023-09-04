@@ -10,9 +10,21 @@
 </head>
 
 <body>
+    <div class="col-md-12">
+    <div class="card-body">
+        <br>
+        <h2 class="text-center">Sejarah</h2>
+        <p class="text-center">SMK Negeri 2 Trenggalek berdiri tanggal 21 Mei 2004. Menurut SK Bupati Trenggalek no. 275 tahun 2004 tentang pendidikan SMKN 2 Trenggalek, SMKN 2 Trenggalek awalnya bernama SMK Kecil di SMPN 5 Trenggalek. Gedung yang dimiliki dulu adalah Bekas SDN... </p>
+</div>
+<div class="col-md-12">
+<div class="card-body">
+    
+    <h2 class="text-center">Visi dan Misi</h2>
+    <p class="text-center">Visi Terwujudnya sekolah unggul yang peduli dan berbudaya lingkungan Misi Meningkatkan penghayatan dan pengamalan terhadap ajaran agama yang dianut. Menciptakan suasana akademik yang kondusif. Menyiapkan sumber daya pendidikan yang berkualitas dan bermanfaat bagi pengembangan potensi peserta didik. Menyelenggarakan proses pembelajaran...</p>
+</div>
     <div class="container">
         <!-- <div class="jumbotron mt-4"> -->
-            <br>
+            
             <h1>Sambutan Kepala SMK NEGERI 2 TRENGGALEK</h1>
             <!-- <p class="lead">Perkenalkan, saya <?= $data['nama']; ?></p> -->
             <hr class="my-4">

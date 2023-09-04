@@ -1,6 +1,7 @@
 <body>
     <br>
     <div class="container">
+        <div class="text-center">
         <!-- <div class="jumbotron mt-4"> -->
 
             <h3>Daftar Kompetensi Keahlian</h3>
@@ -13,7 +14,7 @@
         <table class="table table-bordered">
             <!-- <div class="jumbotron mt-4"> -->
                 <thead>
-                    <tr class="table-success">
+                    <tr class="table-danger text-center">
                         <th scope="col">Jurusan</th>
                         <th scope="col">Detail</th>
                     </tr>
