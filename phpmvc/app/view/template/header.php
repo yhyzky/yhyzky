@@ -10,7 +10,7 @@
 <body>
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
     <div class="container">
-        <a class="navbar-brand" href="<?= BASE_URL; ?>">YHYWEB</a>
+        <a class="navbar-brand" href="<?= BASE_URL; ?>">SMKN 2 TRENGGALEK</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup"
         aria-controls="navbarNavAltMaarkup" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -18,10 +18,10 @@
     
     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
         <div class="navbar-nav">
-            <a class="nav-item nav-link " href="<?= BASE_URL; ?>">Home <span class="sr-only">(current)</span></a>
+            <a class="nav-item nav-link active " href="<?= BASE_URL; ?>">Home <span class="sr-only">(current)</span></a>
+            <a class="nav-item nav-link " href="<?= BASE_URL; ?>/blog">Kompetensi Keahlian</a>
             <a class="nav-item nav-link " href="<?= BASE_URL; ?>/guru">Data Guru</a>
             <a class="nav-item nav-link " href="<?= BASE_URL; ?>/siswa">Data Siswa</a>
-            <a class="nav-item nav-link " href="<?= BASE_URL; ?>/blog">Blog</a>
             <a class="nav-item nav-link " href="<?= BASE_URL; ?>/user/profile">About</a>  
         </div>
     </div>
